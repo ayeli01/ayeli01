@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ayeli01
 - 👀 I’m interested in programming 
 - 🌱 I’m currently learning coding
-_ ❤️ I love the blockchain technologies
+- ❤️ I love the blockchain technologies
 - 💞️ I’m looking to collaborate 
   
 <!---
